@@ -30,6 +30,6 @@ namespace Kogane
         /// <summary>
         /// アプリケーションを実行している Android 端末のバージョンが 13 以上なら true を返します
         /// </summary>
-        public static bool IsAndroidVersion13OrHigher => 13 <= Value;
+        public static bool IsAndroidVersion13OrHigher => 33 <= Value;
     }
 }
